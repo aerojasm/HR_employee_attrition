@@ -1,6 +1,6 @@
 # HR Employee Attrition (Data Visualization Project)
 By Andrés Rojas   
-January, 2022
+September, 2023
 
 * **Data Source:** [Kaggle](https://www.kaggle.com/)
 * **Exploration & Cleaning:** Python / Jupyter Notebook (*script attached in repository*)
